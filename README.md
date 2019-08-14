@@ -19,3 +19,7 @@ samples, guidance on mobile development, and a full API reference.
 
 ![UI](https://user-images.githubusercontent.com/40611225/62845649-2bf86880-bca0-11e9-9efb-5828e9e997ab.png)
 
+## Install in your Smartphone
+
+Go to path apk/app-release.apk and give all permissions in your android phone. Thank you so much !
+
